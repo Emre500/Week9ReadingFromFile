@@ -1,0 +1,14 @@
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\bin\Debug\net6.0\Week9ReadinFromFile.exe
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\bin\Debug\net6.0\Week9ReadinFromFile.deps.json
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\bin\Debug\net6.0\Week9ReadinFromFile.runtimeconfig.json
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\bin\Debug\net6.0\Week9ReadinFromFile.dll
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\bin\Debug\net6.0\Week9ReadinFromFile.pdb
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\obj\Debug\net6.0\Week9ReadinFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\obj\Debug\net6.0\Week9ReadinFromFile.AssemblyInfoInputs.cache
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\obj\Debug\net6.0\Week9ReadinFromFile.AssemblyInfo.cs
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\obj\Debug\net6.0\Week9ReadinFromFile.csproj.CoreCompileInputs.cache
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\obj\Debug\net6.0\Week9ReadinFromFile.dll
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\obj\Debug\net6.0\refint\Week9ReadinFromFile.dll
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\obj\Debug\net6.0\Week9ReadinFromFile.pdb
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\obj\Debug\net6.0\Week9ReadinFromFile.genruntimeconfig.cache
+C:\Users\emre3\source\repos\Week9ReadinFromFile\Week9ReadinFromFile\obj\Debug\net6.0\ref\Week9ReadinFromFile.dll
